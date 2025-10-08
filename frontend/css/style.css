@@ -1,0 +1,30 @@
+
+.calendar-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.calendar-table th, .calendar-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.calendar-table th {
+  background-color: #36a2eb;
+  color: white;
+}
+
+.calendar-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #333;
+}
+
+button {
+  background: #4caf50;
+}
