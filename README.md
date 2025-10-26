@@ -1,2 +1,3 @@
 # Smart Expense Tracker
-A web application to help users track their expenses, plan budgets, and manage finances efficiently.
+
+Smart Expense Tracker is a web application designed to help users monitor their spending, create budgets, and manage personal finances with ease and efficiency.
