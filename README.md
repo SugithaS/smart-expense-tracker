@@ -38,9 +38,11 @@ Backend: Node.js
 Database: MongoDB
 
 Screenshots:
-<img width="950" height="455" alt="image" src="https://ibb.co/933kqmdR" />
-<img width="959" height="507" alt="image" src="https://ibb.co/VYvvzQsy" />
-<img width="959" height="534" alt="image" src="https://ibb.co/XxrhgFXR" />
+
+<img width="1900" height="910" alt="Screenshot 2025-10-26 214055" src="https://github.com/user-attachments/assets/23507cb6-82a1-4083-85ac-7a100f7db46f" />
+<img width="1919" height="1014" alt="Screenshot 2025-10-26 214218" src="https://github.com/user-attachments/assets/61585ae0-086e-4635-ab2d-73f3c44e8dfc" />
+<img width="1919" height="1068" alt="Screenshot 2025-10-26 214235" src="https://github.com/user-attachments/assets/95428c6c-10cc-4ae1-b329-69acdb5a35f8" />
+
 
 Assumptions
 Users will enter only valid expense amounts.
