@@ -1,0 +1,35 @@
+# _config.yml for smart-expense-tracker
+
+# Site settings
+title: Smart Expense Tracker
+description: A project to track expenses efficiently
+baseurl: ""  # use if the site is served from a subdirectory
+url: ""      # leave empty for GitHub Pages
+
+# Markdown processor
+markdown: kramdown
+theme: jekyll-theme-primer
+
+# Exclude these files/folders from Jekyll build
+exclude:
+  - backend
+  - backend/node_modules
+  - node_modules
+  - .gitignore
+  - README.md
+  - package-lock.json
+  - package.json
+  - Gemfile
+  - Gemfile.lock
+
+# Optional: include any folders you want Jekyll to process
+include:
+  - _pages
+  - _posts
+  - assets
+
+# Plugins (default for GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-github-metadata
