@@ -6,11 +6,15 @@ Setup Steps:
 Step-by-step instructions to run the project locally:
 
 Clone the repository
-git clone https://github.com/your-username/your-project.git
+
+git clone https://github.com/SugithaS/smart-expense-tracker.git
+
 cd your-project
 
 Install dependencies
+
 For frontend:
+
 cd frontend
 npm install
 
@@ -19,6 +23,7 @@ cd backend
 npm install
 
 Setup environment variables
+
 Create a .env file in the backend folder with:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
